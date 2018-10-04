@@ -1,2 +1,0 @@
-### Simple Read
-GET https://google.com HTTP/1.1
